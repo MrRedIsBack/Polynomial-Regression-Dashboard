@@ -69,8 +69,3 @@ streamlit run main.py
 - **Polynomial degree slider** controls the regression fit displayed in the main plot.
 - **Bias/variance plot** always uses full range of degrees; slider only affects fit display.
 - **Ridge regularization value** lets you reduce model overfitting and instability for high-degree polynomials.
-
-***
-[8](https://github.com/Sven-Bo/streamlit-sales-dashboard)
-[9](https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started/deploy-from-a-template)
-[10](https://github.com/shamiraty/Streamlit-Dashboard-Descriptive-Analytics-with-MYSQL)
