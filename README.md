@@ -35,12 +35,9 @@ The dashboard fits a polynomial regression model to randomly generated training 
 
 ## Demo Screenshots
 
-| Select parameters and model degree | Regression fit (training/testing points, curve) | Bias-Variance plot |
-|:---:|:---:|:---:|
-| ![<img width="926" height="410" alt="image" src="https://github.com/user-attachments/assets/68aaed45-0626-4e98-8cda-8039a551a396" />
-]( ![<img width="910" height="691" alt="image" src="https://github.com/user-attachments/assets/e3dcac5b-31cc-4e3e-8ad3-08755c34a107" />
-]( ![<img width="912" height="750" alt="image" src="https://github.com/user-attachments/assets/03082f48-f7f4-4815-b4bb-2f94f25b2380" />
-](
+<img width="934" height="491" alt="image" src="https://github.com/user-attachments/assets/12881bb2-b309-418f-967d-1d209aab88b2" />
+<img width="937" height="699" alt="image" src="https://github.com/user-attachments/assets/0450650c-eabe-4e11-b0b6-6836cbbdb03e" />
+<img width="910" height="755" alt="image" src="https://github.com/user-attachments/assets/07585483-03ea-41c7-8d2e-eb1dffbdef17" />
 
 ***
 
@@ -51,7 +48,7 @@ The dashboard fits a polynomial regression model to randomly generated training 
 Clone the repository:
 ```bash
 git clone https://github.com/MrRedIsBack/Polynomial-Regression-Dashboard.git
-cd polynomial-regression-dashboard
+cd Polynomial-Regression-Dashboard
 ```
 Install requirements:
 ```bash
